@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' => 'Dashboard',
+    'profile' => 'Profile',
+    'wishlist' => 'Wishlist',
+    'new_lecture' => 'New Lecture is Coming on',
+    'your_process' => 'Your Process',
+    'courses_taken' => 'Courses Taken',
+    'active_courses' => 'Active Courses',
+    'courses_completed' => 'Courses Completed',
+    'update_profile_photo' => 'Update Your Profile Photo',
+    'click_here' => 'Click Here',
+    'date_of_recording' => 'Date of recording:',
+    'edit' => 'Edit',
+    'update' => 'Update',
+    'first_name' => 'First Name:',
+    'surname' => 'Surname:',
+    'identifier' => 'Identifier:',
+    'email' => 'E-mail:',
+    'phone_number' => 'Phone number:',
+    'add_phone_number' => 'Please add Phone Number..',
+    'skill_profession' => 'Skill/profession:',
+    'add_skill' => 'Please Add Skill',
+    'biography' => 'Biography:',
+    'add_biography' => 'Please add Biography',
+    'no_data_available' => 'No data available in this section',
+];

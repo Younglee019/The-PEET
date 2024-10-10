@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'dashboard' => 'Tableau de bord',
+    'profile' => 'Profil',
+    'wishlist' => 'Liste de souhaits',
+    'new_lecture' => 'Nouveau cours à venir le',
+    'your_process' => 'Votre progression',
+    'courses_taken' => 'Cours suivis',
+    'active_courses' => 'Cours actifs',
+    'courses_completed' => 'Cours terminés',
+    'update_profile_photo' => 'Mettre à jour votre photo de profil',
+    'click_here' => 'Cliquez ici',
+    'date_of_recording' => 'Date d\'enregistrement :',
+    'edit' => 'Modifier',
+    'update' => 'Mettre à jour',
+    'first_name' => 'Prénom :',
+    'surname' => 'Nom :',
+    'identifier' => 'Identifiant :',
+    'email' => 'E-mail :',
+    'phone_number' => 'Numéro de téléphone :',
+    'add_phone_number' => 'Veuillez ajouter un numéro de téléphone..',
+    'skill_profession' => 'Compétence/profession :',
+    'add_skill' => 'Veuillez ajouter une compétence',
+    'biography' => 'Biographie :',
+    'add_biography' => 'Veuillez ajouter une biographie',
+    'no_data_available' => 'Aucune donnée disponible dans cette section',
+];
